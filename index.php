@@ -58,9 +58,9 @@ $path = $_REQUEST["p"] ? $_REQUEST["p"] : "index";
 			    	<li><a tabindex="-1" href="?p=cadre/rourke">Capt Rourke, OFC</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/delawder">Capt Delawder, RFC</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/bujaiski">Capt Bujaiski, Guest Cadre</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/bryant">TSGT Bryant, NCOIC</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/norris">SSGT Norris, NCOIC Personnel</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/walker">TSGT Walker, NCOIC Administration</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/bryant">TSgt Bryant, NCOIC</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/norris">SSgt Norris, NCOIC Personnel Support</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/walker">TSgt Walker, NCOIC Administration</a></li>
 			    </ul><!-- /.dropdown-menu -->
 			  </li><!-- /.dropdown -->
 			  <li class="dropdown">
