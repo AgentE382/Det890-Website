@@ -2,10 +2,10 @@
 	    	<div class="span12">
 	    			<div id="slideshow" class="carousel slide">
 					  <div class="carousel-inner">
-					    <div class="active item"><img src="img/new_img/Whole_Wing2015-2016.jpg" /><p>Building Camaraderie</p></div>
+					    <div class="active item"><img src="img/Whole_Wing2015-2016.jpg" /><p>Building Camaraderie</p></div>
 					    <div class="item"><img src="img/b1b3.jpg"/><p>Maintaining Air Superiority</p></div>
 					    <div class="item"><img src="img/slide3.jpg" /><p>Serving Our Community</p></div>
-					    <div class="item"><img src="img/new_img/Vigil.jpg" /><p>Honoring the Fallen</p></div>
+					    <div class="item"><img src="img/Vigil.jpg" /><p>Honoring the Fallen</p></div>
 					  </div>
 					  <a class="carousel-control left" href="#slideshow" data-slide="prev">&lsaquo;</a>
 					  <a class="carousel-control right" href="#slideshow" data-slide="next">&rsaquo;</a>
