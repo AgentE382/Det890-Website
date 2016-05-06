@@ -105,9 +105,13 @@ $path = $_REQUEST["p"] ? $_REQUEST["p"] : "index";
 <?php
 
 	if(file_exists('pages/'.$path.'.php'))
+		if (strpos($path, 'cadre') !== false and !(strpos($path, 'hiss') !== false)) {	// Temporary fix... Don't display incomplete bios.
+		}
+		else
+
 		include 'pages/'.$path.'.php';
 	else
-		echo '<div class="content"><div class="alert alert-error"><h2>404: Page not found</h2><p>Sorry, the URL you entered is not valid.</p></div></div>';
+		echo '<div class="content"><div class="alert alert-error"><h2>404: Page not found</h2><p><b>Site currently undergoing revision. Please contact us or check back later.</b></p><p>Sorry, the URL you entered is not valid.</p></div></div>';
 
 ?>
 
