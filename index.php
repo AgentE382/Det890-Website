@@ -66,7 +66,7 @@ $path = $_REQUEST["p"] ? $_REQUEST["p"] : "index";
 			  <li class="dropdown">
 			    <a href="#" class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#">Programs <b class="caret"></b></a>
 			    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-			    	<li><a tabindex="-1" href="http://www.afrotc.com/scholarships/">Scholarships</a></li>
+			    	<li><a tabindex="-1" href="?p=programs/scholarships">Scholarships</a></li>
 			    	<li><a tabindex="-1" href="?p=programs/projectgo">Project GO</a></li>
 			    	<li><a tabindex="-1" href="?p=programs/af101">Air Force 101</a></li>
 				<li><a tabindex="-1" href="?p=programs/faqs">FAQs</a></li>
