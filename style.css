@@ -1,0 +1,89 @@
+/*test edit*/
+
+    body {
+	    background-color: #ddd;
+    }
+	      
+	h1, h2, h3 {
+		font-family: 'Headland One', serif;
+	}      
+    #header {
+    	width: 100%;
+    	height: 300px;
+	    background-color: #000000;
+	    background-image: url('header.png');
+	    background-position: center center;
+	    background-repeat: no-repeat;
+    }
+      
+	.navbar-inverse .navbar-inner {
+		background-color: #132639;
+		background-image: -moz-linear-gradient(top,#274056,#132639);
+		background-image: -webkit-gradient(linear,0 0,0 100%,from(#274056),to(#132639));
+		background-image: -webkit-linear-gradient(top,#274056,#132639);
+		background-image: -o-linear-gradient(top,#274056,#132639);
+		background-image: linear-gradient(to bottom,#274056,#132639);
+		filter: progid:dximagetransform.microsoft.gradient(startColorstr='#274056',endColorstr='#132639',GradientType=0);
+		background-repeat: repeat-x;
+	}
+
+	.navbar .brand, .navbar .nav > li > a {
+		color: #fff;
+		text-shadow: 0 1px 0 #111;
+	}
+	
+	.navbar-static-top, .navbar-fixed-top {
+		width: 100% !important;
+	}
+	
+	.main.container {
+		border-right: 1px solid #aaa;
+		border-left: 1px solid #aaa;
+		border-bottom: 1px solid #aaa;
+		background-color: #fff;
+		margin-bottom: 20px;
+	}
+
+	.footer {
+		margin: 10px;
+		padding-top: 10px;
+		color: #666;
+		font-size: 11px;
+		line-height: 12px;
+		border-top: 1px solid #ccc;
+	}
+	
+	.content {
+		margin: 20px;
+	}
+	
+	.well {
+		padding: 10px;
+		margin: 15px;
+	}
+	.carousel{
+		margin-bottom: 0px;
+	}
+	#slideshow p {
+		background-color: #222;
+		background: rgba(0, 0, 0, 0.8);
+		display: inline-block;
+		padding: 10px;
+		position: absolute;
+		bottom: -10px;
+		left: 0px;
+		right: 0px;
+		color: #fff;
+		font-size: 16px;
+	}
+	.tagline {
+		font-family: 'Alegreya SC', serif;
+		font-style: italic;
+		font-size: 30px;
+	}
+	.span12 {
+		width: auto;
+	}
+	.twitter {
+		width: 200px;
+	}
