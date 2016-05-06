@@ -2,7 +2,7 @@
 
 <div class="well pull-right"><img src="img/rourke.jpg" /></div>
 
-<h2>Captain Nina C. Rourke: Position</h2>
+<h2>Captain Nina C. Rourke: Operations Flight Commander</h2>
 
 <p>Bio coming soon!</p>
 
