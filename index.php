@@ -55,8 +55,12 @@ $path = $_REQUEST["p"] ? $_REQUEST["p"] : "index";
 			    <a href="#" class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#">Cadre <b class="caret"></b></a>
 			    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
 			    	<li><a tabindex="-1" href="?p=cadre/hiss">Col Hiss, Commander</a></li>
-			    	<!-- <li><a tabindex="-1" href="?p=cadre/kamorski">Lt Col Kamorski, DO</a></li> -->
-			    	<li><a tabindex="-1" href="?p=cadre/hubal">Capt Hubal, COC</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/rourke">Capt Rourke, OFC</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/delawder">Capt Delawder, RFC</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/bujaiski">Capt Bujaiski, Guest Cadre</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/bryant">TSGT Bryant, NCOIC</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/norris">SSGT Norris, NCOIC Personnel</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/walker">TSGT Walker, NCOIC Administration</a></li>
 			    </ul><!-- /.dropdown-menu -->
 			  </li><!-- /.dropdown -->
 			  <li class="dropdown">
