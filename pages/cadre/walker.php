@@ -4,6 +4,10 @@
 
 <h2>SSgt Amanda S. Walker: NCOIC, Personnel Support</h2>
 
+<p>Bio coming soon!</p>
+
+<!--
+
 <p>Bio</p>
 
 <h3>Education</h3>
@@ -26,6 +30,6 @@
 </ul>
 
 <h3>Effective Dates of Promotion</h3>
-<p><span class="span3">Rank</span> Month D, YYYY</p>
+<p><span class="span3">Rank</span> Month D, YYYY</p> -->
 
 </div><!-- /.content -->
