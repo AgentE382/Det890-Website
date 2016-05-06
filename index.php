@@ -60,7 +60,7 @@ $path = $_REQUEST["p"] ? $_REQUEST["p"] : "index";
 			    	<li><a tabindex="-1" href="?p=cadre/bujaiski">Capt Bujaiski, Guest Cadre</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/bryant">TSgt Bryant, NCOIC</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/norris">SSgt Norris, NCOIC Administration</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/walker">TSgt Walker, NCOIC Personnel Support</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/walker">SSgt Walker, NCOIC Personnel Support</a></li>
 			    </ul><!-- /.dropdown-menu -->
 			  </li><!-- /.dropdown -->
 			  <li class="dropdown">
