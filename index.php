@@ -128,7 +128,7 @@ $path = $_REQUEST["p"] ? $_REQUEST["p"] : "index";
     	&copy; Air Force ROTC Detachment 890<br/>
  		University of Virginia<br />
 		Charlottesville, Virginia 22904<br />
-		Current as of 20 November 2014 | <a href="?p=legal/privacy">Privacy Policy</a></br>	    
+		Current as of 2014. Under Revision. | <a href="?p=legal/privacy">Privacy Policy</a></br>	    
 	</div>
 
 	    	<div class="span3">
