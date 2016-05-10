@@ -30,7 +30,7 @@
 <center>
 <h2>Location</h2>
 
-		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3142.488794051226!2d-78.5173908!3d38.0356956!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b38659f5ae0a6d%3A0x4646d7369c10e66a!2sDetachment+890!5e0!3m2!1sen!2sus!4v1462897983116" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe><br /><small><a href="https://www.google.com/maps/place/Detachment+890/@38.0356956,-78.5173908,17z/data=!4m5!3m4!1s0x89b38659f5ae0a6d:0x4646d7369c10e66a!8m2!3d38.0356914!4d-78.5152021" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3142.488794051226!2d-78.5173908!3d38.0356956!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b38659f5ae0a6d%3A0x4646d7369c10e66a!2sDetachment+890!5e0!3m2!1sen!2sus!4v1462897983116" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </center>
 
 		</div><!-- /.span6 -->
