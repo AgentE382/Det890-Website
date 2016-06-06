@@ -4,9 +4,9 @@
 
 <h2>Captain Daniel C. Brown: Recruiting Flight Commander</h2>
 
-<p>Capt Daniel C. Brown is the Recruiting Flight Commander, Air Force Reserve Officer Training Corps Detachment 890, University of Virginia, Charlottesville. He is responsible for the development, management, &amp; execution of all unit recruiting efforts at the University of Virginia, Liberty University, James Madison University, and Piedmont Virginia Community College.
+<p>Capt Daniel C. Brown is the Recruiting Flight Commander, Air Force Reserve Officer Training Corps Detachment 890, University of Virginia, Charlottesville. He is responsible for the development, management, &amp; execution of all unit recruiting efforts at the University of Virginia, Liberty University, James Madison University, and Piedmont Virginia Community College.</p>
 
-Capt Brown was commissioned in 2010 as a graduate of the Air Force Reserve Officer Training Corps Reserve Officers’ Training Corps program at the University of Virginia.  He joined the Air Force Reserves in October 2015, and has served at both the National Geospatial-Intelligence Agency and National Security Agency, and was a command briefer and intelligence analyst at the 609th Combined Air Operations Center. Prior to his current position, the captain was Intelligence Officer in Charge, Analysis, Correlation, and Fusion Cell, 710th Combat Operations Squadron, Joint Base Langley-Eustis, VA.</p>
+<p>Capt Brown was commissioned in 2010 as a graduate of the Air Force Reserve Officer Training Corps Reserve Officers’ Training Corps program at the University of Virginia.  He joined the Air Force Reserves in October 2015, and has served at both the National Geospatial-Intelligence Agency and National Security Agency, and was a command briefer and intelligence analyst at the 609th Combined Air Operations Center. Prior to his current position, the captain was Intelligence Officer in Charge, Analysis, Correlation, and Fusion Cell, 710th Combat Operations Squadron, Joint Base Langley-Eustis, VA.</p>
 
 <h3>Education</h3>
 <p><span class="span1">2010</span> Bachelor of Arts degree in foreign affairs, University of Virginia, Charlottesville
