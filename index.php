@@ -2,7 +2,7 @@
 
 $path = $_REQUEST["p"] ? $_REQUEST["p"] : "index";
 
-preg_replace("~[^[:alnum:]/]~u", '', $path);	// Only keep letters, numbers, and slashes in the path.
+$path = preg_replace("~[^[:alnum:]/]~u", '', $path);	// Only keep letters, numbers, and slashes in the path.
 
 ?>
 
