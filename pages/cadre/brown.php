@@ -1,6 +1,6 @@
 <div class="content">
 
-<div class="well pull-right"><img src="img/brown.jpg" /></div>
+<div class="well pull-right"><img src="img/brown.jpg" style="width:160px;height:200px;" /></div>
 
 <h2>Captain Daniel C. Brown: Recruiting Flight Commander</h2>
 
