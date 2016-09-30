@@ -56,9 +56,9 @@ $path = preg_replace("~[^[:alnum:]/]~u", '', $path);	// Only keep letters, numbe
 			  <li class="dropdown">
 			    <a href="#" class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#">Cadre <b class="caret"></b></a>
 			    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-			    	<li><a tabindex="-1" href="?p=cadre/hiss">Col Hiss, Commander</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/rourke">Capt Rourke, OFC</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/delawder">Capt Delawder, EFC</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/donley">Col Donley, Commander</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/delawder">Capt Delawder, OFC</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/ulman">Capt Ulman, EFC</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/brown">Capt Brown, RFC</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/bujaiski">Capt Bujaiski, Guest Cadre</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/bryant">TSgt Bryant, NCOIC</a></li>
