@@ -2,9 +2,9 @@
 
 <div class="well pull-right"><img src="img/delawder.jpg" /></div>
 
-<h2>Captain Colleen M. Delawder: Education Flight Commander</h2>
+<h2>Captain Colleen M. Delawder: Operations Flight Commander</h2>
 
-<p>Capt Colleen M. Delawder is the Education Flight Commander at the Air Force Reserve Officer Training Corps Detachment 890 at the University of Virginia in Charlottesville.  She oversees the education of over 150 cadets located at the University of Virginia, Liberty University, James Madison University, and Piedmont Virginia Community College.</p>
+<p>Capt Colleen M. Delawder is the Operations Flight Commander at the Air Force Reserve Officer Training Corps Detachment 890 at the University of Virginia in Charlottesville.  She oversees over 150 cadets located at the University of Virginia, Liberty University, James Madison University, and Piedmont Virginia Community College.</p>
 
 <p>Capt Delawder grew up in Green, Ohio and entered the Air Force in January 1999. She has served as Flight Commander for the 10th Intelligence Squadron and various other Officer in Charge position for many communications work centers to include the largest communications hub in U.S. Air Forces Central Command. She has been stationed at locations in Oklahoma, Oman, Japan, South Korea, Italy, Arizona, Qatar, and Virginia. Before assuming her current position, Capt Delawder served as Deputy Director of Staff for the 480th Intelligence, Surveillance and Reconnaissance (ISR) Wing at Langley Air Force Base, Virginia where she led 334 personnel.</p>
 
