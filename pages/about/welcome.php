@@ -1,6 +1,6 @@
 <div class="content">
 
-<div class="well pull-right"><img src="img/hiss.jpg" /><p>Colonel Steven T. Hiss</p></div>
+<div class="well pull-right"><img src="img/donley.jpg" /><p>Colonel Patrick H. Donley</p></div>
 
 <h3>Commander's Welcome</h3>
 
