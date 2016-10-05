@@ -1,26 +1,11 @@
 <div class="content">
 
-<div class="well pull-right"><img src="img/donley.jpg" /><p>Colonel Patrick H. Donley</p></div>
-
 <h3>Commander's Welcome</h3>
 
-<p>Welcome to AFROTC Detachment 890 at the University of Virginia, where our mission is to develop
-quality leaders for the Air Force. The Reserve Officer Training Corps, through intense training and
-course work, opens the door for entry into the world's finest Air Force. Our cadets have gone on to serve
-in a range of career fields, including aviation, special operations, engineering, support, medical, and
-special investigations. Through a cross-town arrangement, cadets at Liberty University, James Madison
-University, and Piedmont Virginia Community College also participate in our program.</p>
+<p>Welcome to AFROTC Detachment 890 at the University of Virginia!  The Reserve Officer Training Corps, through intense training and coursework, opens the door to a life of military service to the nation. The cadre and cadets at Detachment 890 are proud of our mission to develop capable officers of character who are motivated to lead the greatest air, space, and cyberspace force the world has ever known.  Through a beneficial “cross-town” arrangement, Detachment 890 is also composed of exceptional cadets from Liberty University, James Madison University, and Piedmont Virginia Community College.</p>
 
-<p>We offer cadets an ideal training environment that instills the core values of integrity, service, and
-excellence that fosters leaders of character and discipline. These values, coupled with the surroundings
-of large, accredited universities, produce the type of well-rounded officers the Air Force is seeking.
-Cadets are exposed to numerous fun and challenging activities and programs, along with organizations
-that reach out to the local community. This strengthens the skills necessary to benefit their careers in the
-military.</p>
+<p>We offer cadets an ideal training environment that instills the core values of integrity first, service before self, and excellence in all we do.  These values, coupled with a rigorous academic curriculum from well-respected, accredited universities, produce the type of well-rounded officers the Air Force needs.  Our cadets are exposed to numerous enjoyable and challenging activities and programs, along with a host of voluntary opportunities and community support programs in an effort to develop and strengthen the skills necessary to lead Airmen successfully.  Our cadets have gone on to serve as officers in such diverse career fields as aviation, special operations, cyber, engineering, support, medical, and special investigations.</p>
 
-<p>We offer scholarships for a range of academic programs, open to both high school and college students
-who excel in academics and display superior leadership potential. We are excited about your interest
-in AFROTC Detachment 890 and look forward to assisting you on your flight into the United States Air
-Force.</p>
+<p>We offer scholarships across a wide range of academic programs to deserving high school seniors and college students who excel in academics and who display superior leadership potential. Come take a look at what we have to offer and consider Detachment 890 as your officer development home. We are excited about your interest in AFROTC and look forward to assisting you on your journey into the United States Air Force!</p>
 
 </div><!-- /.content -->
