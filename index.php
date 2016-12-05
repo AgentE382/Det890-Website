@@ -60,7 +60,7 @@ $path = preg_replace("~[^[:alnum:]/]~u", '', $path);	// Only keep letters, numbe
 			    	<li><a tabindex="-1" href="?p=cadre/delawder">Capt Delawder, OFC</a></li>
 			    	<li><a tabindex="-1">Capt Ulman, EFC</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/brown">Capt Brown, RFC</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/bujaiski">Capt Bujaiski, Guest Cadre</a></li>
+			    	<li><a tabindex="-1" href="?p=cadre/bugajski">Capt Bugajski, Guest Cadre</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/bryant">TSgt Bryant, NCOIC</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/norris">SSgt Norris, NCOIC Administration</a></li>
 			    	<li><a tabindex="-1" href="?p=cadre/walker">SSgt Walker, NCOIC Personnel Support</a></li>
