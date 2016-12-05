@@ -57,13 +57,13 @@ $path = preg_replace("~[^[:alnum:]/]~u", '', $path);	// Only keep letters, numbe
 			    <a href="#" class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#">Cadre <b class="caret"></b></a>
 			    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
 			    	<li><a tabindex="-1">Col Donley, Commander</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/delawder">Capt Delawder, OFC</a></li>
+			    	<li><a tabindex="-1">Capt Delawder, OFC</a></li>
 			    	<li><a tabindex="-1">Capt Ulman, EFC</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/brown">Capt Brown, RFC</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/bugajski">Capt Bugajski, Guest Cadre</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/bryant">TSgt Bryant, NCOIC</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/norris">SSgt Norris, NCOIC Administration</a></li>
-			    	<li><a tabindex="-1" href="?p=cadre/walker">SSgt Walker, NCOIC Personnel Support</a></li>
+			    	<li><a tabindex="-1">Capt Brown, RFC</a></li>
+			    	<li><a tabindex="-1">Capt Bugajski, Guest Cadre</a></li>
+			    	<li><a tabindex="-1">TSgt Bryant, NCOIC</a></li>
+			    	<li><a tabindex="-1">SSgt Norris, NCOIC Administration</a></li>
+			    	<li><a tabindex="-1">SSgt Walker, NCOIC Personnel Support</a></li>
 			    </ul><!-- /.dropdown-menu -->
 			  </li><!-- /.dropdown -->
 			  <li class="dropdown">
