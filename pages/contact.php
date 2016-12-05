@@ -10,10 +10,6 @@
 
 
 <table>
-	<tr><td><strong>Public Affairs Officers:</strong></td><td> &nbsp; &nbsp; &nbsp;  Cadet Alex Robichaud<td></tr>
-	<tr><td><strong></strong></td><td> &nbsp; &nbsp; &nbsp; Cadet Will Henry Mullins<td></tr>
-	<tr><td><strong></strong></td><td> &nbsp; &nbsp; &nbsp; Cadet Nate Young<td></tr>
-	<tr><td><strong></strong></td><td> &nbsp; &nbsp; &nbsp; Cadet Mark Lawson<td></tr>
 	<tr><td><strong>Address:&nbsp;</strong></td><td> &nbsp; &nbsp; &nbsp; Department of Air Science<td></tr>
 	<tr><td></td><td> &nbsp; &nbsp; &nbsp; Astronomy Building</td></tr> 
 	<tr><td></td><td> &nbsp; &nbsp; &nbsp; University of Virginia</td></tr> 
