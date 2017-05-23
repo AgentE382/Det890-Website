@@ -57,14 +57,13 @@ $path = preg_replace("~[^[:alnum:]/]~u", '', $path);	// Only keep letters, numbe
 			    <a href="#" class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#">Cadre <b class="caret"></b></a>
 			    <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
 			    	<li><a tabindex="-1">Col Donley, Commander</a></li>
-			    	<li><a tabindex="-1">Capt Delawder, OFC</a></li>
-			    	<li><a tabindex="-1">Capt Ulman, EFC</a></li>
-			    	<li><a tabindex="-1">Capt Brown, RFC</a></li>
-			    	<li><a tabindex="-1">Capt Bugajski, Guest Cadre</a></li>
-			    	<li><a tabindex="-1">TSgt Bryant, NCOIC</a></li>
-			    	<li><a tabindex="-1">SSgt Norris, NCOIC Administration</a></li>
-			    	<li><a tabindex="-1">SSgt Walker, NCOIC Personnel Support</a></li>
-			    </ul><!-- /.dropdown-menu -->
+			    	<li><a tabindex="-1">Capt Ulman, Operations Flight/CC</a></li>
+			    	<li><a tabindex="-1">Capt Brown, Education Flight/CC</a></li>
+			    	<li><a tabindex="-1">Capt Delawder, Recruiting Flight/CC</a></li>
+				<li><a tabindex="-1">TSgt Bryant, NCOIC</a></li>
+			    	<li><a tabindex="-1">TSgt Walker, NCOIC Personnel Support</a></li>
+				<li><a tabindex="-1">SrA Spokony, Administration Journeyman</a></li>
+			    	</ul><!-- /.dropdown-menu -->
 			  </li><!-- /.dropdown -->
 			  <li class="dropdown">
 			    <a href="#" class="dropdown-toggle" id="dLabel" role="button" data-toggle="dropdown" data-target="#">Programs <b class="caret"></b></a>
