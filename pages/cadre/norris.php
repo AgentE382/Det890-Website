@@ -2,7 +2,7 @@
 
 <div class="well pull-right"><img src="img/norris.jpg" /></div>
 
-<h2>SSgt Noel B. Norris: NCOIC, Administration</h2>
+<h2>SrA Max Spokony: Administration Journeyman</h2>
 
 <p>Bio coming soon!</p>
 
